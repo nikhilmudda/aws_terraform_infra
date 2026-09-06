@@ -1,1 +1,1 @@
-
+- Inputs we don't want hardcoded
